@@ -1,4 +1,4 @@
-# TITLE
+# StreamAPI
 
 ## Task1
 The method takes a list of names as input. It is required to return a string in the format "1. Ivan, 3. Peter..." with only those names that are at odd indices (1, 3, etc.).
